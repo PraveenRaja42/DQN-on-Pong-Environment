@@ -1,0 +1,7 @@
+numpy==1.15.4
+atari-py==0.1.6
+gym==0.10.9
+torch==0.4.1
+torchvision==0.2.1
+tensorboardX==1.6
+tensorboard==1.12.0
