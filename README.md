@@ -1,2 +1,5 @@
 # DQN-on-Pong-Environment
 Deep Reinforcement Learning: Applied DQN algorithm on Pong Environment. 
+
+OpenAI Gym environment is being used. The OpenAI Gym is an open source suite of environments with a common API
+that is perfect for testing reinforcement learning algorithms.
