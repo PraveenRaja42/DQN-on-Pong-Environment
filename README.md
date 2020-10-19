@@ -6,6 +6,6 @@ that is perfect for testing reinforcement learning algorithms.
 
 Recommended installing python through Anaconda 
 
-conda create dqn python==3.6
+conda create -n dqn python=3.6
 
 conda activate dqn
